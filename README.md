@@ -8,4 +8,4 @@ output#1: the result of input#1
 
 input#2: output#1
 
-output#2: a file containing a list of <char count> pairs where the first column contains 'char' and the second column contains 'count'
+output#2: a file containing a list of [char count] pairs where the first column contains 'char' and the second column contains 'count'
